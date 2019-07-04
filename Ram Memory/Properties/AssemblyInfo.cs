@@ -6,11 +6,11 @@ using System.Runtime.InteropServices;
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
 [assembly: AssemblyTitle("Ram Memory")]
-[assembly: AssemblyDescription("")]
+[assembly: AssemblyDescription("Temproray store data in your RAM")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("")]
+[assembly: AssemblyCompany("Hirbod Behnam")]
 [assembly: AssemblyProduct("Ram Memory")]
-[assembly: AssemblyCopyright("Copyright ©  2019")]
+[assembly: AssemblyCopyright("Hirbod Behnam Copyright ©  2019")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
