@@ -115,13 +115,10 @@ namespace Ram_Memory
                 dialog.ShowDialog();
             }
         }
-        private void ToolStripDownloadFile_Click(object sender, EventArgs e)
-        {
-            
-        }
+
+        private void ToolStripDownloadFile_Click(object sender, EventArgs e) => new DownloadForm {Lv = listViewMain}.ShowDialog();
         #endregion
-        
-        
+
         #region Menu Buttons
         private void SaveToolStripMenuItem_Click(object sender, EventArgs e)
         {
